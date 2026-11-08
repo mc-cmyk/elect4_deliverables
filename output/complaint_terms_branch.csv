@@ -1,0 +1,344 @@
+Branch,term,n_words,n_reviews,count,pct_reviews
+Acacia Lane,bagong luto,2,4,4,0.03333333333333333
+Acacia Lane,chicken small,2,3,3,0.025
+Acacia Lane,hindi mainit,2,3,3,0.025
+Acacia Lane,incomplete order,2,3,3,0.025
+Acacia Lane,kulang kulang,2,3,3,0.025
+Acacia Lane,mainit fries,2,3,3,0.025
+Acacia Lane,burger steak,2,2,2,0.016666666666666666
+Acacia Lane,chicken order,2,2,2,0.016666666666666666
+Acacia Lane,coke float,2,2,2,0.016666666666666666
+Acacia Lane,hindi bagong,2,2,2,0.016666666666666666
+Acacia Lane,hindi bagong luto,3,2,2,0.016666666666666666
+Acacia Lane,hindi mainit fries,3,2,2,0.016666666666666666
+Acacia Lane,ice cream,2,2,2,0.016666666666666666
+Acacia Lane,missing order,2,2,2,0.016666666666666666
+Acacia Lane,not following,2,2,2,0.016666666666666666
+Ayala Mall Circuit,family pan,2,5,5,0.05154639175257732
+Ayala Mall Circuit,received 4,2,5,5,0.05154639175257732
+Ayala Mall Circuit,4 solo,2,3,3,0.030927835051546393
+Ayala Mall Circuit,jolly spaghetti,2,3,3,0.030927835051546393
+Ayala Mall Circuit,ordered family,2,3,3,0.030927835051546393
+Ayala Mall Circuit,ordered family pan,3,3,3,0.030927835051546393
+Ayala Mall Circuit,pan spaghetti,2,3,3,0.030927835051546393
+Ayala Mall Circuit,received 4 solo,3,3,3,0.030927835051546393
+Ayala Mall Circuit,4 solo spag,3,2,2,0.020618556701030927
+Ayala Mall Circuit,bakit ganito,2,2,2,0.020618556701030927
+Ayala Mall Circuit,drinks order,2,2,2,0.020618556701030927
+Ayala Mall Circuit,family pan spaghetti,3,2,2,0.020618556701030927
+Ayala Mall Circuit,hilaw chicken,2,2,2,0.020618556701030927
+Ayala Mall Circuit,kulang kulang,2,2,2,0.020618556701030927
+Ayala Mall Circuit,liit chicken,2,2,2,0.020618556701030927
+Bocaue Lolomboy,iced tea,2,2,3,0.024390243902439025
+Bocaue Lolomboy,1 burger,2,2,2,0.024390243902439025
+Bocaue Lolomboy,1pc chicken,2,2,2,0.024390243902439025
+Bocaue Lolomboy,burger steak,2,2,2,0.024390243902439025
+Bocaue Lolomboy,chicken fries,2,2,2,0.024390243902439025
+Bocaue Lolomboy,di nasunod,2,2,2,0.024390243902439025
+Bocaue Lolomboy,disappointed 😞,2,2,2,0.024390243902439025
+Bocaue Lolomboy,fries delivered,2,2,2,0.024390243902439025
+Bocaue Lolomboy,hilaw rice,2,2,2,0.024390243902439025
+Bocaue Lolomboy,kulang order,2,2,2,0.024390243902439025
+Bocaue Lolomboy,liit chicken,2,2,2,0.024390243902439025
+Bocaue Lolomboy,no fries,2,2,2,0.024390243902439025
+Bocaue Lolomboy,no gravy,2,2,2,0.024390243902439025
+Bocaue Lolomboy,priority delivery,2,2,2,0.024390243902439025
+Bocaue Lolomboy,small size,2,2,2,0.024390243902439025
+Cebu Ayala L3,no gravy,2,15,15,0.12295081967213115
+Cebu Ayala L3,coke float,2,5,5,0.040983606557377046
+Cebu Ayala L3,burger steak,2,3,4,0.02459016393442623
+Cebu Ayala L3,double check,2,3,3,0.02459016393442623
+Cebu Ayala L3,burger steak solo,3,2,3,0.01639344262295082
+Cebu Ayala L3,jolly spaghetti,2,2,3,0.01639344262295082
+Cebu Ayala L3,steak solo,2,2,3,0.01639344262295082
+Cebu Ayala L3,check items,2,2,2,0.01639344262295082
+Cebu Ayala L3,chicken joy,2,2,2,0.01639344262295082
+Cebu Ayala L3,chicken original,2,2,2,0.01639344262295082
+Cebu Ayala L3,chicken small,2,2,2,0.01639344262295082
+Cebu Ayala L3,coke missing,2,2,2,0.01639344262295082
+Cebu Ayala L3,dont know,2,2,2,0.01639344262295082
+Cebu Ayala L3,extra rice,2,2,2,0.01639344262295082
+Cebu Ayala L3,gravy provided,2,2,2,0.01639344262295082
+Cebu Basak mactan,no gravy,2,8,8,0.0898876404494382
+Cebu Basak mactan,chicken small,2,4,4,0.0449438202247191
+Cebu Basak mactan,not spicy,2,4,4,0.0449438202247191
+Cebu Basak mactan,gravy chicken,2,3,3,0.033707865168539325
+Cebu Basak mactan,no gravy chicken,3,3,3,0.033707865168539325
+Cebu Basak mactan,not complete,2,3,3,0.033707865168539325
+Cebu Basak mactan,ingun breast,2,2,2,0.02247191011235955
+Cebu Basak mactan,nag note,2,2,2,0.02247191011235955
+Cebu Basak mactan,not following,2,2,2,0.02247191011235955
+Cebu Basak mactan,special instructions,2,2,2,0.02247191011235955
+Cebu Basak mactan,spicy chicken,2,2,2,0.02247191011235955
+Cebu Basak mactan,wrong food,2,2,2,0.02247191011235955
+Cebu Basak mactan,wrong order,2,2,2,0.02247191011235955
+Cebu Gorordo,no gravy,2,7,7,0.07216494845360824
+Cebu Gorordo,gravy included,2,3,3,0.030927835051546393
+Cebu Gorordo,mango pie,2,3,3,0.030927835051546393
+Cebu Gorordo,no gravy included,3,3,3,0.030927835051546393
+Cebu Gorordo,ordered 2,2,3,3,0.030927835051546393
+Cebu Gorordo,peach mango,2,3,3,0.030927835051546393
+Cebu Gorordo,peach mango pie,3,3,3,0.030927835051546393
+Cebu Gorordo,coke float,2,2,3,0.020618556701030927
+Cebu Gorordo,1 pc,2,2,2,0.020618556701030927
+Cebu Gorordo,2nd time,2,2,2,0.020618556701030927
+Cebu Gorordo,2nd time ordering,3,2,2,0.020618556701030927
+Cebu Gorordo,breast wing,2,2,2,0.020618556701030927
+Cebu Gorordo,butter honey,2,2,2,0.020618556701030927
+Cebu Gorordo,chicken gravy,2,2,2,0.020618556701030927
+Cebu Gorordo,chicken no gravy,3,2,2,0.020618556701030927
+Cebu Lapu-lapu,burger steak,2,4,4,0.02631578947368421
+Cebu Lapu-lapu,chicken small,2,4,4,0.02631578947368421
+Cebu Lapu-lapu,no gravy,2,4,4,0.02631578947368421
+Cebu Lapu-lapu,ordered 2,2,4,4,0.02631578947368421
+Cebu Lapu-lapu,ordered spicy,2,4,4,0.02631578947368421
+Cebu Lapu-lapu,ice cream,2,3,4,0.019736842105263157
+Cebu Lapu-lapu,requested thigh,2,3,3,0.019736842105263157
+Cebu Lapu-lapu,spicy chicken,2,3,3,0.019736842105263157
+Cebu Lapu-lapu,extra rice,2,2,4,0.013157894736842105
+Cebu Lapu-lapu,gravy chicken,2,2,3,0.013157894736842105
+Cebu Lapu-lapu,paid extra,2,2,3,0.013157894736842105
+Cebu Lapu-lapu,1 hour,2,2,2,0.013157894736842105
+Cebu Lapu-lapu,2 hrs,2,2,2,0.013157894736842105
+Cebu Lapu-lapu,30 mins,2,2,2,0.013157894736842105
+Cebu Lapu-lapu,add cutlery,2,2,2,0.013157894736842105
+Davao Magsaysay,extra gravy,2,3,3,0.06
+Davao Magsaysay,chicken dry,2,2,2,0.04
+Domestic,spicy chicken,2,4,4,0.038461538461538464
+Domestic,kulang isang,2,3,3,0.028846153846153848
+Domestic,kulang kulang,2,3,3,0.028846153846153848
+Domestic,mango pie,2,3,3,0.028846153846153848
+Domestic,peach mango,2,3,3,0.028846153846153848
+Domestic,peach mango pie,3,3,3,0.028846153846153848
+Domestic,liit chicken,2,2,3,0.019230769230769232
+Domestic,40 minutes,2,2,2,0.019230769230769232
+Domestic,chocolate sundae,2,2,2,0.019230769230769232
+Domestic,didnt follow,2,2,2,0.019230769230769232
+Domestic,hindi mainit,2,2,2,0.019230769230769232
+Domestic,jolly hotdog,2,2,2,0.019230769230769232
+Domestic,long time,2,2,2,0.019230769230769232
+Domestic,need refund,2,2,2,0.019230769230769232
+Domestic,not followed,2,2,2,0.019230769230769232
+EDSA Kamias,chicken kahit,2,2,2,0.041666666666666664
+EDSA Kamias,improve service,2,2,2,0.041666666666666664
+EDSA Kamias,liit manok,2,2,2,0.041666666666666664
+EDSA Kamias,no gravy,2,2,2,0.041666666666666664
+Edsa Guevarra,incomplete order,2,5,5,0.047619047619047616
+Edsa Guevarra,no utensils,2,5,5,0.047619047619047616
+Edsa Guevarra,not following,2,4,4,0.0380952380952381
+Edsa Guevarra,following instructions,2,3,3,0.02857142857142857
+Edsa Guevarra,no gravy,2,3,3,0.02857142857142857
+Edsa Guevarra,not following instructions,3,3,3,0.02857142857142857
+Edsa Guevarra,spoon fork,2,3,3,0.02857142857142857
+Edsa Guevarra,took hour,2,3,3,0.02857142857142857
+Edsa Guevarra,1 hour,2,2,2,0.01904761904761905
+Edsa Guevarra,cutlery provided,2,2,2,0.01904761904761905
+Edsa Guevarra,di mainit,2,2,2,0.01904761904761905
+Edsa Guevarra,di mainit food,3,2,2,0.01904761904761905
+Edsa Guevarra,disappointed branch,2,2,2,0.01904761904761905
+Edsa Guevarra,extra rice,2,2,2,0.01904761904761905
+Edsa Guevarra,hindi mainit,2,2,2,0.01904761904761905
+Gaisano Grand mall mactan,no gravy,2,10,10,0.054945054945054944
+Gaisano Grand mall mactan,chicken joy,2,9,9,0.04945054945054945
+Gaisano Grand mall mactan,burger steak,2,5,5,0.027472527472527472
+Gaisano Grand mall mactan,spicy chicken,2,5,5,0.027472527472527472
+Gaisano Grand mall mactan,took long,2,5,5,0.027472527472527472
+Gaisano Grand mall mactan,4 pcs,2,4,4,0.02197802197802198
+Gaisano Grand mall mactan,jumbo fries,2,4,4,0.02197802197802198
+Gaisano Grand mall mactan,wrong order,2,4,4,0.02197802197802198
+Gaisano Grand mall mactan,2 hours,2,3,3,0.016483516483516484
+Gaisano Grand mall mactan,4 pcs chicken,3,3,3,0.016483516483516484
+Gaisano Grand mall mactan,able eat,2,3,3,0.016483516483516484
+Gaisano Grand mall mactan,coke float,2,3,3,0.016483516483516484
+Gaisano Grand mall mactan,double check,2,3,3,0.016483516483516484
+Gaisano Grand mall mactan,gravy chicken,2,3,3,0.016483516483516484
+Gaisano Grand mall mactan,long time,2,3,3,0.016483516483516484
+Gil Fernando,kulang order,2,6,6,0.057692307692307696
+Gil Fernando,no gravy,2,4,4,0.038461538461538464
+Gil Fernando,coke float,2,3,3,0.028846153846153848
+Gil Fernando,fries soggy,2,3,3,0.028846153846153848
+Gil Fernando,puro wings,2,3,3,0.028846153846153848
+Gil Fernando,walang gravy,2,3,3,0.028846153846153848
+Gil Fernando,wrong order,2,3,3,0.028846153846153848
+Gil Fernando,1pc chicken,2,2,2,0.019230769230769232
+Gil Fernando,burger steak,2,2,2,0.019230769230769232
+Gil Fernando,chicken joy,2,2,2,0.019230769230769232
+Gil Fernando,chicken spaghetti,2,2,2,0.019230769230769232
+Gil Fernando,french fries,2,2,2,0.019230769230769232
+Gil Fernando,gravy chicken,2,2,2,0.019230769230769232
+Gil Fernando,gravy included,2,2,2,0.019230769230769232
+Gil Fernando,kulang kulang,2,2,2,0.019230769230769232
+Greenhills,burger steak,2,2,2,0.0625
+Greenhills,fries order,2,2,2,0.0625
+Greenhills,regular fries,2,2,2,0.0625
+Greenhills,wrong order,2,2,2,0.0625
+Koronadal HW DT,burger steak,2,3,5,0.031578947368421054
+Koronadal HW DT,1 hour,2,3,3,0.031578947368421054
+Koronadal HW DT,hindi spicy,2,3,3,0.031578947368421054
+Koronadal HW DT,spicy chicken,2,3,3,0.031578947368421054
+Koronadal HW DT,30 mins,2,2,2,0.021052631578947368
+Koronadal HW DT,aloha champ,2,2,2,0.021052631578947368
+Koronadal HW DT,chicken joy,2,2,2,0.021052631578947368
+Koronadal HW DT,dalawa di binigyan,3,2,2,0.021052631578947368
+Koronadal HW DT,di binigyan,2,2,2,0.021052631578947368
+Koronadal HW DT,dressing burger,2,2,2,0.021052631578947368
+Koronadal HW DT,dumating order,2,2,2,0.021052631578947368
+Koronadal HW DT,gave regular,2,2,2,0.021052631578947368
+Koronadal HW DT,hindi luto,2,2,2,0.021052631578947368
+Koronadal HW DT,humingi ketchup,2,2,2,0.021052631578947368
+Koronadal HW DT,humingi ketchup kahit,3,2,2,0.021052631578947368
+Koronadal HW DT2,kulang order,2,4,4,0.06451612903225806
+Koronadal HW DT2,chicken joy,2,3,3,0.04838709677419355
+Koronadal HW DT2,extra rice,2,2,3,0.03225806451612903
+Koronadal HW DT2,double check,2,2,2,0.03225806451612903
+Koronadal HW DT2,fries order,2,2,2,0.03225806451612903
+Koronadal HW DT2,leg thigh,2,2,2,0.03225806451612903
+Koronadal HW DT2,pcs chicken,2,2,2,0.03225806451612903
+Koronadal HW DT2,right order,2,2,2,0.03225806451612903
+Koronadal HW DT2,spag fries,2,2,2,0.03225806451612903
+Koronadal HW DT2,waiting time,2,2,2,0.03225806451612903
+Koronadal HW DT2,wala gravy,2,2,2,0.03225806451612903
+Lianas Alabang,liit chicken,2,2,2,0.08
+Lucky Gold Lifehomes,incomplete order,2,5,5,0.033783783783783786
+Lucky Gold Lifehomes,double check,2,4,4,0.02702702702702703
+Lucky Gold Lifehomes,fries order,2,4,4,0.02702702702702703
+Lucky Gold Lifehomes,spicy chicken,2,4,4,0.02702702702702703
+Lucky Gold Lifehomes,wrong order,2,4,4,0.02702702702702703
+Lucky Gold Lifehomes,extra gravy,2,3,4,0.02027027027027027
+Lucky Gold Lifehomes,burger steak,2,3,3,0.02027027027027027
+Lucky Gold Lifehomes,chicken small,2,3,3,0.02027027027027027
+Lucky Gold Lifehomes,half original,2,3,3,0.02027027027027027
+Lucky Gold Lifehomes,half spicy,2,3,3,0.02027027027027027
+Lucky Gold Lifehomes,not following,2,3,3,0.02027027027027027
+Lucky Gold Lifehomes,sobrang tagal,2,3,3,0.02027027027027027
+Lucky Gold Lifehomes,wala fries,2,3,3,0.02027027027027027
+Lucky Gold Lifehomes,leg parts,2,2,3,0.013513513513513514
+Lucky Gold Lifehomes,chicken binigay,2,2,2,0.013513513513513514
+ML Quezon Taguig,spicy chicken,2,2,3,0.05
+ML Quezon Taguig,chicken bucket,2,2,2,0.05
+ML Quezon Taguig,liit chicken,2,2,2,0.05
+Makati Avenue,coke float,2,6,6,0.027149321266968326
+Makati Avenue,chicken joy,2,5,5,0.02262443438914027
+Makati Avenue,follow instructions,2,4,4,0.01809954751131222
+Makati Avenue,kulang order,2,4,4,0.01809954751131222
+Makati Avenue,no gravy,2,4,4,0.01809954751131222
+Makati Avenue,super tagal,2,4,4,0.01809954751131222
+Makati Avenue,waited hour,2,4,4,0.01809954751131222
+Makati Avenue,missing item,2,3,4,0.013574660633484163
+Makati Avenue,spicy chicken,2,3,4,0.013574660633484163
+Makati Avenue,burger steak,2,3,3,0.013574660633484163
+Makati Avenue,chicken dry,2,3,3,0.013574660633484163
+Makati Avenue,chicken not spicy,3,3,3,0.013574660633484163
+Makati Avenue,iced coffee,2,3,3,0.013574660633484163
+Makati Avenue,incomplete order,2,3,3,0.013574660633484163
+Makati Avenue,no cutlery,2,3,3,0.013574660633484163
+Marikina Bayan,30 45 minutes,3,4,4,0.057971014492753624
+Marikina Bayan,45 minutes,2,4,4,0.057971014492753624
+Marikina Bayan,app order,2,4,4,0.057971014492753624
+Marikina Bayan,app order ready,3,4,4,0.057971014492753624
+Marikina Bayan,order ready,2,4,4,0.057971014492753624
+Marikina Bayan,order ready pick,3,4,4,0.057971014492753624
+Marikina Bayan,pick wait,2,4,4,0.057971014492753624
+Marikina Bayan,pick wait 30,3,4,4,0.057971014492753624
+Marikina Bayan,ready pick,2,4,4,0.057971014492753624
+Marikina Bayan,ready pick wait,3,4,4,0.057971014492753624
+Marikina Bayan,services app,2,4,4,0.057971014492753624
+Marikina Bayan,services app order,3,4,4,0.057971014492753624
+Marikina Bayan,slow services,2,4,4,0.057971014492753624
+Marikina Bayan,slow services app,3,4,4,0.057971014492753624
+Marikina Bayan,wait 30,2,4,4,0.057971014492753624
+Ormoc DT,no gravy,2,5,5,0.08333333333333333
+Ormoc DT,not spicy,2,4,4,0.06666666666666667
+Ormoc DT,requested cheese,2,3,3,0.05
+Ormoc DT,burger steak,2,2,3,0.03333333333333333
+Ormoc DT,1 hour,2,2,2,0.03333333333333333
+Ormoc DT,additional added,2,2,2,0.03333333333333333
+Ormoc DT,champ jr,2,2,2,0.03333333333333333
+Ormoc DT,cheese no additional,3,2,2,0.03333333333333333
+Ormoc DT,chicken not crispy,3,2,2,0.03333333333333333
+Ormoc DT,extra gravy,2,2,2,0.03333333333333333
+Ormoc DT,incomplete fries,2,2,2,0.03333333333333333
+Ormoc DT,missing order,2,2,2,0.03333333333333333
+Ormoc DT,no additional,2,2,2,0.03333333333333333
+Ormoc DT,no additional added,3,2,2,0.03333333333333333
+Ormoc DT,not crispy,2,2,2,0.03333333333333333
+Phoenix Lanang,no gravy,2,12,12,0.055299539170506916
+Phoenix Lanang,burger steak,2,8,9,0.03686635944700461
+Phoenix Lanang,kulang order,2,4,4,0.018433179723502304
+Phoenix Lanang,no ketchup,2,4,4,0.018433179723502304
+Phoenix Lanang,not complete,2,4,4,0.018433179723502304
+Phoenix Lanang,not following,2,4,4,0.018433179723502304
+Phoenix Lanang,1 hour,2,3,3,0.013824884792626729
+Phoenix Lanang,2pc chicken,2,3,3,0.013824884792626729
+Phoenix Lanang,chicken 1,2,3,3,0.013824884792626729
+Phoenix Lanang,following instructions,2,3,3,0.013824884792626729
+Phoenix Lanang,no cutlery,2,3,3,0.013824884792626729
+Phoenix Lanang,no straw,2,3,3,0.013824884792626729
+Phoenix Lanang,not following instructions,3,3,3,0.013824884792626729
+Phoenix Lanang,ordered large,2,3,3,0.013824884792626729
+Phoenix Lanang,poor service,2,3,3,0.013824884792626729
+Puregold E. Rod,sobrang liit,2,4,4,0.08163265306122448
+Puregold E. Rod,fries soggy,2,2,2,0.04081632653061224
+Puregold E. Rod,liit chicken,2,2,2,0.04081632653061224
+Puregold E. Rod,liit manok,2,2,2,0.04081632653061224
+Puregold E. Rod,not following,2,2,2,0.04081632653061224
+Puregold E. Rod,sobrang liit chicken,3,2,2,0.04081632653061224
+Puregold E. Rod,sobrang liit manok,3,2,2,0.04081632653061224
+Puregold E. Rod,walang spoon,2,2,2,0.04081632653061224
+Robinsons Valencia,following instructions,2,3,3,0.07894736842105263
+Robinsons Valencia,not following,2,3,3,0.07894736842105263
+Robinsons Valencia,not following instructions,3,3,3,0.07894736842105263
+Robinsons Valencia,extra rice,2,2,2,0.05263157894736842
+Robinsons Valencia,ika pila,2,2,2,0.05263157894736842
+Robinsons Valencia,ketchup fries,2,2,2,0.05263157894736842
+Rockwell Business Center Tower 3,food cold,2,2,2,0.1111111111111111
+SM Center Dagupan,wala pong,2,2,2,0.09523809523809523
+SM Center Ormoc,burger steak,2,3,3,0.1
+SM Center Ormoc,spicy chicken,2,2,3,0.06666666666666667
+SM Center Ormoc,1 hour,2,2,2,0.06666666666666667
+SM Center Ormoc,did not received,3,2,2,0.06666666666666667
+SM Center Ormoc,not received,2,2,2,0.06666666666666667
+SM Center Ormoc,not spicy,2,2,2,0.06666666666666667
+SM Center Ormoc,order arrived,2,2,2,0.06666666666666667
+SM Center Ormoc,pick order,2,2,2,0.06666666666666667
+SM Center Ormoc,received 1,2,2,2,0.06666666666666667
+SM Center Ormoc,want wait,2,2,2,0.06666666666666667
+South Park Mall L1 MMMU,mango pie,2,4,4,0.056338028169014086
+South Park Mall L1 MMMU,peach mango,2,3,3,0.04225352112676056
+South Park Mall L1 MMMU,peach mango pie,3,3,3,0.04225352112676056
+South Park Mall L1 MMMU,fries order,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,fries received,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,incomplete order,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,kulang order,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,medium fries,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,missing order,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,no cutlery,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,no utensils,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,regular fries,2,2,2,0.028169014084507043
+South Park Mall L1 MMMU,took long,2,2,2,0.028169014084507043
+Taft Drive Thru,no gravy,2,4,4,0.041237113402061855
+Taft Drive Thru,walang gravy,2,4,4,0.041237113402061855
+Taft Drive Thru,cheese burger,2,2,3,0.020618556701030927
+Taft Drive Thru,burger steak,2,2,2,0.020618556701030927
+Taft Drive Thru,chicken small,2,2,2,0.020618556701030927
+Taft Drive Thru,customer service,2,2,2,0.020618556701030927
+Taft Drive Thru,kulang kulang,2,2,2,0.020618556701030927
+Taft Drive Thru,kulang order,2,2,2,0.020618556701030927
+Taft Drive Thru,leg gave,2,2,2,0.020618556701030927
+Taft Drive Thru,maliit chicken,2,2,2,0.020618556701030927
+Taft Drive Thru,no ketchup,2,2,2,0.020618556701030927
+Taft Drive Thru,not reading,2,2,2,0.020618556701030927
+Taft Drive Thru,order kulang,2,2,2,0.020618556701030927
+Taft Drive Thru,ordered 3,2,2,2,0.020618556701030927
+Taft Drive Thru,poor customer,2,2,2,0.020618556701030927
+The Mind Museum,burger steak,2,2,4,0.029411764705882353
+The Mind Museum,1 drink,2,2,2,0.029411764705882353
+The Mind Museum,2 1pc,2,2,2,0.029411764705882353
+The Mind Museum,incomplete order,2,2,2,0.029411764705882353
+The Mind Museum,lasa chicken,2,2,2,0.029411764705882353
+The Mind Museum,missing order,2,2,2,0.029411764705882353
+The Mind Museum,missing orders,2,2,2,0.029411764705882353
+The Mind Museum,rice instead,2,2,2,0.029411764705882353
+The Mind Museum,took hour,2,2,2,0.029411764705882353
+The Mind Museum,wrong item,2,2,2,0.029411764705882353
+The Mind Museum,yum burger,2,2,2,0.029411764705882353

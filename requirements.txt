@@ -1,0 +1,12 @@
+# ReviewLens
+# pip install -r requirements.txt
+# (equivalent: pip install scikit-learn joblib afinn streamlit plotly seaborn pandas)
+scikit-learn>=1.5
+joblib>=1.4
+afinn>=0.1
+streamlit>=1.40
+plotly>=5.20
+seaborn>=0.13
+matplotlib>=3.8
+pandas>=2.2
+numpy>=1.26
